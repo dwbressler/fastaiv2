@@ -1,5 +1,6 @@
 /home/paperspace/fastai/weights/*
 fastai/weights/*
+fastai/weights.tgz
 
 *~
 .pypirc
